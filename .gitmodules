@@ -1,0 +1,9 @@
+[submodule "ProjectMultilanguage-Node"]
+	path = ProjectMultilanguage-Node
+	url = https://github.com/VictorGVC/ProjectMultilanguage-Node.git
+[submodule "ProjectMultilanguage-React"]
+	path = ProjectMultilanguage-React
+	url = https://github.com/VictorGVC/ProjectMultilanguage-React
+[submodule "ProjectMultilanguage-Spring"]
+	path = ProjectMultilanguage-Spring
+	url = https://github.com/VictorGVC/ProjectMultilanguage-Spring.git
