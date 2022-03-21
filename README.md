@@ -12,9 +12,9 @@ As a differential, it will be possible for the frontend to choose in which langu
 ## Features 🌟
 
 - [x] ``NodeJS``
-- [] ``Java``
-- [] ``Django``
-- [] ``React``
+- [ ] ``Spring``
+- [ ] ``Django``
+- [ ] ``React``
 
 ## License 
 
